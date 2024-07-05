@@ -4,9 +4,6 @@
 # Node windows service daemon
 daemon/
 
-# Sqlite Local Files
-sqlite/*
-
 # Logs
 logs
 *.log
@@ -121,9 +118,6 @@ dist
 
 # FuseBox cache
 .fusebox/
-
-# Sqlite Local Files
-sqlite/*
 
 # DynamoDB Local files
 .dynamodb/
