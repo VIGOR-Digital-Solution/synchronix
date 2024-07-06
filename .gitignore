@@ -4,6 +4,9 @@
 # Node windows service daemon
 daemon/
 
+# Sqlite
+*.db
+
 # Logs
 logs
 *.log
